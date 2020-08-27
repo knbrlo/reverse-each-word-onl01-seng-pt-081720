@@ -1,4 +1,3 @@
-
 toppings = ["pickles", "mushrooms", "bacon"]
 
 def hamburger(toppings)
